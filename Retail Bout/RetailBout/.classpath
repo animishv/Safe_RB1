@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="libs/firebase-client-jvm-LATEST.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-client-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-client-android2-1.10.3-beta.jar"/>
+	<classpathentry kind="lib" path="libs/google-oauth-client-1.10.1-beta.jar"/>
+	<classpathentry kind="lib" path="libs/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-core-asl-1.9.11.jar"/>
+	<classpathentry kind="lib" path="libs/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-android2-1.10.3-beta (1).jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-android3-1.10.3-beta.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
